@@ -1,0 +1,6 @@
+# ninja log v6
+10	390	7536647500000000	CMakeFiles/MeetSync.dir/main.c.obj	b7745271de083acf
+75	482	7536647500000000	CMakeFiles/MeetSync.dir/reserva.c.obj	bc58d32cbd3bb385
+483	1604	7536647500000000	MeetSync.exe	ff8542f9651788e5
+23	362	7536648280000000	CMakeFiles/MeetSync.dir/reserva.c.obj	bc58d32cbd3bb385
+364	1466	7536648280000000	MeetSync.exe	ff8542f9651788e5

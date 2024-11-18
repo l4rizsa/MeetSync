@@ -1,0 +1,3 @@
+D:/Linguagem de Programacao/MeetSync/MeetSync/cmake-build-debug/CMakeFiles/MeetSync.dir
+D:/Linguagem de Programacao/MeetSync/MeetSync/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Linguagem de Programacao/MeetSync/MeetSync/cmake-build-debug/CMakeFiles/rebuild_cache.dir
