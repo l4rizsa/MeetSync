@@ -2,11 +2,11 @@
 // Created by Larissa on 11/11/2024.
 //
 
-#define MAX 30
+#define MAX 100
 
 typedef struct Reserva{
     int id;
-    char nome[71];
+    char nome[51];
     int dia, mes, ano;
     int hi, mi;
     int hf, mf;
@@ -48,4 +48,5 @@ int checarConflitoI(int hi, int mi, int pos, int t);
 
 int checarConflitoF(int hf, int mf, int pos, int t, int hi, int mi);
 
-void carregarReservas();
+
+void visualizarSalas();
