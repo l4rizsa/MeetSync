@@ -190,9 +190,9 @@ void cancelarReserva(int pos, int *t){
     printf("\n                                           +--------------------------------------------------------+\n");
     printf("                                           |                    RESERVA No. %.3d                     |\n", pos);
     printf("                                           +---------------------+----------------------------------+\n");
-    printf("                                           |  ID DA SALA:        |  %.2d                              |\n", v[pos]->id);
-    printf("                                           |  RESERVANTE:        |  %.30s  |\n", v[pos]->nome);
-    printf("                                           |  DATA:              |  %.2d/%.2d/%.4d                      |\n", v[pos]->dia, v[pos]->mes, v[pos]->ano);
+    printf("                                           |  ID DA SALA         |  %.2d                              |\n", v[pos]->id);
+    printf("                                           |  RESERVANTE         |  %.30s  |\n", v[pos]->nome);
+    printf("                                           |  DATA               |  %.2d/%.2d/%.4d                      |\n", v[pos]->dia, v[pos]->mes, v[pos]->ano);
     printf("                                           |  HORARIO DE INICIO  |  %.2d:%.2d                           |\n", v[pos]->hi, v[pos]->mi);
     printf("                                           |  HORARIO DE TERMINO |  %.2d:%.2d                           |\n", v[pos]->hf, v[pos]->mf);
     printf("                                           +---------------------+----------------------------------+\n\n");
