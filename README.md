@@ -31,4 +31,7 @@
 
 O código também inclui funções internas responsáveis por validações, como verificar se a data e os horários são válidos ou se existem conflitos entre reservas.
 
+### Guia do Usuário
+https://github.com/l4rizsa/MeetSync/blob/main/GuiaDoUsuario.md
+
 NOTA: Para mais detalhes sobre os parâmetros e a implementação de cada função, consulte os comentários diretamente no código.
